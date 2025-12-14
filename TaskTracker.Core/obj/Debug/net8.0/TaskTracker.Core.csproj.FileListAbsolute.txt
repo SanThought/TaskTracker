@@ -1,0 +1,11 @@
+/home/san/Projects/TaskTracker/TaskTracker.Core/bin/Debug/net8.0/TaskTracker.Core.deps.json
+/home/san/Projects/TaskTracker/TaskTracker.Core/bin/Debug/net8.0/TaskTracker.Core.dll
+/home/san/Projects/TaskTracker/TaskTracker.Core/bin/Debug/net8.0/TaskTracker.Core.pdb
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/TaskTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/TaskTracker.Core.AssemblyInfoInputs.cache
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/TaskTracker.Core.AssemblyInfo.cs
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/TaskTracker.Core.csproj.CoreCompileInputs.cache
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/TaskTracker.Core.dll
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/refint/TaskTracker.Core.dll
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/TaskTracker.Core.pdb
+/home/san/Projects/TaskTracker/TaskTracker.Core/obj/Debug/net8.0/ref/TaskTracker.Core.dll
